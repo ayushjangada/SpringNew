@@ -5,4 +5,6 @@
         http://www.springframework.org/schema/beans/spring-beans.xsd">
         
         <bean id="t" class="com.model.Test"></bean>
+        <bean id="t2" class="com.model.Test2"></bean>
+        
         </beans>
